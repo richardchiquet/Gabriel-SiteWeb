@@ -1,0 +1,32 @@
+# React
+node_modules/
+build/
+.env
+.env.local
+.env.*.local
+
+# Vite
+# Add Vite-specific ignores here
+
+# TypeScript
+# Add TypeScript-specific ignores here
+
+# JavaScript
+# Add JavaScript-specific ignores here
+
+# Common
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+**/*.backup.*
+**/*.back.*
+logs
+
+# IDE and editor generated files
+.idea/
+*.sublime-*
+*.vscode/
+*.code-workspace
